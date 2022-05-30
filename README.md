@@ -12,6 +12,7 @@ In the links below you can see some contents that I had the opportunity to elabo
 
 - [Linear Regression](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/regressao%20linear/Regressao%20Linear.ipynb)
 - [Decision Tree  Regressor](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/decision%20tree%20regressor/Decision%20Tree%20Regressor.ipynb)
+- [Support Vectors Machine](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20classificacao/svm/SVM.ipynb)
 - [Probability Distributions](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/distribuicoes%20de%20probabilidade/Distribuicoes%20de%20Probabilidade%20-%20Aula.ipynb)
 - [Wilcoxon's Test](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/teste_wilcoxon/Teste%20de%20Wilcoxon.ipynb)
 - [Mann Whitney's U Test](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/mann_whitney/Mann-Whitney.ipynb)
