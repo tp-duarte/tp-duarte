@@ -17,7 +17,6 @@ In the links below you can see some contents that I had the opportunity to elabo
 - [Wilcoxon's Test](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/teste_wilcoxon/Teste%20de%20Wilcoxon.ipynb)
 - [Mann Whitney's U Test](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/mann_whitney/Mann-Whitney.ipynb)
 - [Chi square goodness of fit](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/teste_qui_quadrado/Testes_de_Hipotese_II.ipynb)
-- [Elections Exploratory Analysis](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/manipulacao/Analise%20Exploratoria%20Eleicoes.ipynb)
 
 <br>
 
