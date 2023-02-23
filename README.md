@@ -4,7 +4,7 @@
 <br>
 
  
-Hi,  my name is Thiago ! I'm learning Economics at Unesp and enjoy data and analysis 📈 
+Hi,  my name is Thiago ! I'm a B.A. in Economics at Unesp and enjoy data and analysis 📈 
 <br>
 Co-founded **[Data.Aqa](https://github.com/Data-Aqa)**, Data Science League aimed for students at Unesp Araraquara. 
 
