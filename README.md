@@ -4,11 +4,10 @@
 <br>
 
  
-Hi,  my name is Thiago ! I'm a B.A. in Economics at Unesp and enjoy data and analysis 📈 
+Hi,  my name is Thiago ! I have a B.A. in Economics at Unesp and work as a data scientist. 📈 
 <br>
-Co-founded **[Data.Aqa](https://github.com/Data-Aqa)**, Data Science League aimed for students at Unesp Araraquara. 
 
-In the links below you can see some contents that I had the opportunity to elaborate :
+In the links below you can see some contents that I had the opportunity to elaborate:
 
 - [Linear Regression](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/regressao%20linear/Regressao%20Linear.ipynb)
 - [Decision Tree  Regressor](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/machine%20learning/aprendizado%20supervisionado/metodos%20de%20regressao/decision%20tree%20regressor/Decision%20Tree%20Regressor.ipynb)
